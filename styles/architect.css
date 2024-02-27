@@ -131,7 +131,7 @@ main {
     padding: 30px;
 }
 
-.fact-card-container .card-title{
+.fact-card-container .card-title {
     font-weight: 600;
     font-size: 1.25rem;
     margin-top: 5px;
@@ -144,6 +144,19 @@ main {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+/* sponsors styles */
+
+.sponsors {
+    text-align: center;
+}
+
+.sponsors-img-container{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
 
 /* responsive media queries */
 
